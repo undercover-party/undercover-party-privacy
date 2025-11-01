@@ -33,6 +33,18 @@ All data is transmitted via HTTPS/TLS encryption:
 
 ---
 
+## Question 4: Do you provide a way for users to request deletion of some or all of their data without having to delete their account? (Optional)
+
+**Answer: YES** ✅
+
+**Explanation:** Users can request deletion of:
+- **Purchase data** (via email to arouaystudio@gmail.com) - Account remains active, but premium access is lost
+- **Advertising data** (via Google My Ad Center) - Account remains active
+
+**Note:** Authentication data (email, name, profile picture) cannot be deleted without deleting the account, as these are essential for account functionality.
+
+---
+
 ## Data Types Collected
 
 ### 1. **Personal Info**
