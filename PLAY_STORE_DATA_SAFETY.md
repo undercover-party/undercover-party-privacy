@@ -78,7 +78,7 @@ All data is transmitted via HTTPS/TLS encryption:
 - **Purposes:**
   - ✅ App functionality
   - ✅ Account management
-- **Optional or Required:** OPTIONAL (only if user subscribes)
+- **Optional or Required:** OPTIONAL (only if user purchases premium)
 - **Can users request deletion:** YES (subject to 12-month legal retention) ✅
 
 ---
@@ -171,7 +171,7 @@ https://arouaystudio.github.io/undercover-party-privacy/index.html
 - **Data shared:** Email, name, profile picture, Google User ID
 
 ### 2. RevenueCat
-- **Purpose:** Subscription management
+- **Purpose:** Purchase management (one-time premium purchase)
 - **Data shared:** Email, Firebase User ID, purchase history
 
 ### 3. Google AdMob
